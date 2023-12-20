@@ -1,0 +1,48 @@
+body{
+    background-color: lightgrey;
+}
+
+
+img {
+    width: 250px;
+    height: 250px;
+    margin-bottom:40px;
+    margin-left:40px;
+    }
+
+ol {
+    font-size:30px;
+    font-weight:bolder;
+}
+
+h4{
+    text-align:center;
+    color:black;
+}
+
+.col-lg-4 {
+    background-color: darkgreen;
+    border-radius: 25px;
+    border: 1px solid black;
+    margin-top:10px;
+    text-align:center;
+    height: 40px;
+}
+
+.col-lg-8 {
+    background-color:darkolivegreen;
+    border-radius: 25px;
+    border: 1px solid black;
+    text-align:center;
+    height: 40px;
+}
+
+.flex-row{
+    justify-content:center;
+}
+
+.container{
+    background-color:lightskyblue;
+    border-radius:25px;
+    width: 2000px;
+}
